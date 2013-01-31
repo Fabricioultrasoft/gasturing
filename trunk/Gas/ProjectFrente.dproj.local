@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2013/01/26 21:42:20.000.509,=C:\Users\carlos\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/01/27 08:23:54.000.407,=C:\Users\carlos\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2013/01/27 08:30:01.000.409,C:\Users\carlos\Documents\RAD Studio\Projects\Unit1.dfm=C:\Turing\Gas\uFrente.dfm</Transaction>
+    <Transaction>2013/01/27 08:30:01.000.408,C:\Users\carlos\Documents\RAD Studio\Projects\Unit1.pas=C:\Turing\Gas\uFrente.pas</Transaction>
+    <Transaction>2013/01/27 08:30:22.000.832,C:\Users\carlos\Documents\RAD Studio\Projects\Project1.dproj=C:\Turing\Gas\ProjectFrente.dproj</Transaction>
+    <Transaction>2013/01/27 13:06:17.000.183,=C:\Turing\Gas\Unit1.pas</Transaction>
+    <Transaction>2013/01/27 13:06:35.000.627,C:\Turing\Gas\uFuncoes.pas=C:\Turing\Gas\Unit1.pas</Transaction>
+    <Transaction>2013/01/30 16:13:13.698,=C:\Turing\gasturing\Gas\Unit1.pas</Transaction>
+    <Transaction>2013/01/30 16:14:02.847,C:\Turing\gasturing\Gas\uDMpos.pas=C:\Turing\gasturing\Gas\Unit1.pas</Transaction>
+    <Transaction>2013/01/30 16:14:02.847,C:\Turing\gasturing\Gas\uDMpos.dfm=C:\Turing\gasturing\Gas\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
